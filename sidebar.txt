@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[scw:home|Door43 (scw)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-scw|d43-scw repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-scw/archive/master.zip|d43-scw.zip]]
+
+**Recent Changes**
+{{changes>ns = scw}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/scw|Ethnologue data]]
+
